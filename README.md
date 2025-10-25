@@ -28,7 +28,7 @@ ESP32-XIAO Pin Connections:
 ├─ GPIO 2 → Relay IN (door lock control)
 ├─ GPIO 3 → Push Button (other side to GND)
 ├─ GPIO 4 → LED Anode (+) → 220Ω Resistor → GND
-├─ 3V3    → Relay VCC
+├─ 5V     → Relay VCC
 ├─ GND    → Relay GND, Button GND, LED GND
 
 Relay Module:
